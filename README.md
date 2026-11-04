@@ -4,3 +4,4 @@ Site compilado da demonstração (dados 100% fictícios). O código-fonte fica e
 
 - Jornada do agregado: https://tiagofreitas83.github.io/atf-antecipa-frete-demo/antecipa/demo
 - Portal da transportadora: https://tiagofreitas83.github.io/atf-antecipa-frete-demo/portal
+- Admin da ATF (transportadoras e white-label): https://tiagofreitas83.github.io/atf-antecipa-frete-demo/admin
